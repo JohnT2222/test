@@ -1,0 +1,23 @@
+# Core LLM + Groq Client
+groq==0.3.0
+
+# Environment and utilities
+python-dotenv==1.0.1
+tqdm==4.66.4
+
+# PDF and file loading
+PyPDF2==3.0.1
+
+# Embeddings via HuggingFace
+sentence-transformers==2.2.2
+transformers==4.41.1
+torch==2.3.0
+
+# Vector Store (Chroma)
+chromadb==0.4.24
+
+# LangChain stack — stable versions
+langchain==0.1.14
+langchain-community==0.0.21
+langchain-core==0.1.35
+
