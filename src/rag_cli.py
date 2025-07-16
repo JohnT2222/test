@@ -1,3 +1,5 @@
+import sys
+print("PYTHON:", sys.executable)
 import os
 import argparse
 from pathlib import Path
@@ -32,7 +34,8 @@ def answer_query_with_groq(query: str, context_docs: list[Document], model: str 
     prompt = f"""You are a helpful assistant. Use the following context to answer the question.\n\nContext:\n{context}\n\nQuestion: {query}\nAnswer:"""
 
     response = client.chat.completions.create(
-        model=model,
+        model="mistral-saba-24b"
+,
         messages=[{"role": "user", "content": prompt}],
         temperature=0.3,
         max_tokens=512
