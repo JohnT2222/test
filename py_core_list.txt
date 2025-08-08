@@ -1,0 +1,8 @@
+llm_client.py
+C:\Users\johnn\Projects\AGENTICS AGENCY\AA_agentics_pipeline\backend\main.py
+C:\Users\johnn\Projects\AGENTICS AGENCY\AA_agentics_pipeline\backend\rag_answer.py
+C:\Users\johnn\Projects\AGENTICS AGENCY\AA_agentics_pipeline\backend\rag_cli.py
+C:\Users\johnn\Projects\AGENTICS AGENCY\AA_agentics_pipeline\backend\retriever.py
+C:\Users\johnn\Projects\AGENTICS AGENCY\AA_agentics_pipeline\backend\text_retriever.py
+C:\Users\johnn\Projects\AGENTICS AGENCY\AA_agentics_pipeline\backend\__init__.py
+C:\Users\johnn\Projects\AGENTICS AGENCY\AA_agentics_pipeline\src\embedder.py

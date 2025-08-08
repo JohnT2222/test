@@ -9,3 +9,5 @@ __pycache__/
 
 # Vector store
 chroma_db/
+devtools/ 
+storage/results.json 
